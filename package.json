@@ -1,0 +1,6 @@
+{
+  "name": "basket-dudes-server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.0.0" }
+}
